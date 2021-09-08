@@ -1,4 +1,0 @@
-How to write JSON object to File in Java
-In this tutorial,
-I’ll show you how to write JSON data to a file
- 
